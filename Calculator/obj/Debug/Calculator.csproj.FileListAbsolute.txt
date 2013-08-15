@@ -1,0 +1,9 @@
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\sanjeev\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
